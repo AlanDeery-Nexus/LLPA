@@ -1,27 +1,19 @@
 ﻿Name,Status,Starts (Local),Ends (Local),Organization,Instructor,Classroom,Delivery Language,Contact Email Address,Price Tier 1,Price Tier 2,Price Tier 3
-AI+ Agent,Scheduled,16/10/2026 08:00,16/10/2026 17:00,LLPA, ,,English (United States),sharon.oosterberg@thellpa.com,385,385,385
-AI+ Context Engineering,Scheduled,06/11/2026 08:00,06/11/2026 17:00,LLPA, ,,English (United States),sharon.oosterberg@thellpa.com,385,385,385
-AI+ Human Resources Practitioner,Scheduled,13/10/2026 08:00,13/10/2026 17:00,LLPA, ,,English (United States),sharon.oosterberg@thellpa.com,385,385,385
-AI+ Product Manager Fundametals,Scheduled,09/10/2026 08:00,09/10/2026 17:00,LLPA, ,,English (United States),sharon.oosterberg@thellpa.com,385,385,385
-AI+ Project Manager Fundamentals,Scheduled,18/09/2026 08:00,18/09/2026 17:00,LLPA, ,,English (United States),sharon.oosterberg@thellpa.com,385,385,385
-AI+ Prompting Fundamentals,Scheduled,02/10/2026 08:00,02/10/2026 17:00,LLPA, ,,English (United States),sharon.oosterberg@thellpa.com,385,385,385
+AI+ Context Engineering,Scheduled,06/11/2026 08:00,06/11/2026 17:00,LLPA, ,,English (United States),'@Itce.com,€385.00,€385.00,€385.00
+AI+ Human Resources Practitioner,Scheduled,13/10/2026 08:00,13/10/2026 17:00,LLPA, ,,English (United States),'@Itce.com,€385.00,€385.00,€385.00
+AI+ Product Manager Fundametals,Scheduled,09/10/2026 08:00,09/10/2026 17:00,LLPA, ,,English (United States),'@Itce.com,€385.00,€385.00,€385.00
+AI+ Project Manager Fundamentals,Scheduled,18/09/2026 08:00,18/09/2026 17:00,LLPA, ,,English (United States),'@Itce.com,€385.00,€385.00,€385.00
+AI+ Prompting Fundamentals,Scheduled,01/10/2026 08:00,01/10/2026 17:00,LLPA, ,,English (United States),'@Itce.com,€385.00,€385.00,€385.00
 Business Writing,Scheduled,05/08/2026 09:30,05/08/2026 16:30,LLPA, ,,English (United States),info@nexushuman.ie,150,150,150
 Claude AI Workshop,Scheduled,24/07/2026 09:30,24/07/2026 16:30,LLPA, ,,English (United States),info@nexushuman.ie,295,295,295
 Copilot 365 for Business Users,Scheduled,14/07/2026 09:30,14/07/2026 12:30,LLPA, ,,English (United States),info@nexushuman.ie,100,100,100
 ITIL (Version 5) Foundation with Exam,Scheduled,24/08/2026 09:30,26/08/2026 17:00,LLPA, ,,English (United States),info@nexushuman.ie,895,895,895
-Mile2 C)DFE: Certified Digital Forensics Examiner CDFE20261109,Scheduled,09/11/2026 09:00,13/11/2026 17:00,LLPA, ,,English (United States),sharon.oosterberg@thellpa.com,2795,2236,1677
-Mile2 C)IHE: Certified Incident Handling Engineer CIHE20260727,Scheduled,27/07/2026 09:00,31/07/2026 17:00,LLPA, ,,English (United States),sharon.oosterberg@thellpa.com,2795,2236,1667
-Mile2 C)ISSO: Certified Information Systems Security Officer CISSO20260803,Scheduled,03/08/2026 09:00,07/08/2026 17:00,LLPA, ,,English (United States),sharon.oosterberg@thellpa.com,2795,2236,1667
-Mile2 C)ISSO: Certified Information Systems Security Officer CISSO20261005,Scheduled,05/10/2026 09:00,09/10/2026 17:00,LLPA, ,,English (United States),sharon.oosterberg@thellpa.com,2795,2236,1667
-Mile2 C)ISSO: Certified Information Systems Security Officer CISSO20261214,Scheduled,14/12/2026 09:00,18/12/2026 17:00,LLPA, ,,English (United States),sharon.oosterberg@thellpa.com,2795,2236,1667
-Mile2 C)PEH/C)PTE: Certified Ethical Hacker & Penetration Testing Engineer CPEHCPTE20260914,Scheduled,14/09/2026 09:00,18/09/2026 17:00,LLPA, ,,English (United States),sharon.oosterberg@thellpa.com,2795,2236,1667
-Mile2 C)TIA: Certified Threat Intelligence Analyst CTIA20260921,Scheduled,21/09/2026 09:00,25/09/2026 17:00,LLPA, ,,English (United States),sharon.oosterberg@thellpa.com,2795,2236,1667
-NVIDIA: Introduction to Deploying RAG Pipelines for Production at Scale (English),Scheduled,06/07/2026 09:30,06/07/2026 16:30,LLPA, ,,English (United States),'@computrain.nl,845.75,791,736.25
-"Office 365 SharePoint, OneDrive and Teams",Scheduled,01/07/2026 09:30,01/07/2026 16:30,LLPA, ,,English (United States),info@nexushuman.ie,100,100,100
-Performance Metrics and Dashboards with ServiceNow Platform Analytics,Scheduled,29/09/2026 10:00,30/09/2026 18:00,LLPA, ,,English (United States),sharon.oosterberg@thellpa.com,585,585,585
-Personal Impact,Scheduled,06/07/2026 09:30,06/07/2026 16:30,LLPA, ,,English (United States),info@nexushuman.ie,150,150,150
-"Plan, Align and Deliver with ServiceNow SPM and SAFe",Scheduled,30/11/2026 09:00,01/12/2026 17:00,LLPA, ,,English (United States),sharon.oosterberg@thellpa.com,585,585,585
-ServiceNow Common Service Data Model (CSDM) 5.0 for Architects and Consultants,Scheduled,02/11/2026 10:00,03/11/2026 18:00,LLPA, ,,English (United States),sharon.oosterberg@thellpa.com,585,585,585
-"Support, Assure and Fulfill with ServiceNow ITSM",Scheduled,20/10/2026 10:00,21/10/2026 18:00,LLPA, ,,English (United States),sharon.oosterberg@thellpa.com,585,585,585
+Mile2 C)DFE: Certified Digital Forensics Examiner CDFE20261109,Scheduled,09/11/2026 09:00,13/11/2026 17:00,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1677
+Mile2 C)IHE: Certified Incident Handling Engineer CIHE20260727,Scheduled,27/07/2026 09:00,31/07/2026 17:00,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
+Mile2 C)ISSO: Certified Information Systems Security Officer CISSO20260803,Scheduled,03/08/2026 09:00,07/08/2026 17:00,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
+Mile2 C)ISSO: Certified Information Systems Security Officer CISSO20261005,Scheduled,05/10/2026 09:00,09/10/2026 17:00,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
+Mile2 C)ISSO: Certified Information Systems Security Officer CISSO20261214,Scheduled,14/12/2026 09:00,18/12/2026 17:00,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
+Mile2 C)PEH/C)PTE: Certified Ethical Hacker & Penetration Testing Engineer CPEHCPTE20260914,Scheduled,14/09/2026 09:00,18/09/2026 17:00,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
+Mile2 C)TIA: Certified Threat Intelligence Analyst CTIA20260921,Scheduled,21/09/2026 09:00,25/09/2026 17:00,LLPA, ,,English (United States),'@LLPA.com,2795,2236,1667
 Time Management: The Fast and Easy Way to Boost Productivity,Scheduled,11/08/2026 09:30,11/08/2026 16:30,LLPA, ,,English (United States),info@nexushuman.ie,150,150,150
 Word for the Business User,Scheduled,29/07/2026 09:30,29/07/2026 16:30,LLPA, ,,English (United States),info@nexushuman.ie,100,100,100
